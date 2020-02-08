@@ -1,0 +1,13 @@
+{
+    "name": "enigma972/utils",
+    "description": "Common utils",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Lusavuvu",
+            "email": "lusavuvujoel39@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
