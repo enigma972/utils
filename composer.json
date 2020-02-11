@@ -9,5 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Enigma972\\Utils\\": "src/"
+        }
+    },
     "require": {}
 }
